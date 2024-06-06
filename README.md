@@ -6,9 +6,10 @@
 
 ## YouTubers más reconocidos del mundo, analizando su influencia y comparándola con la de los principales YouTubers Chilenos. 
 
-### DIMENSIONES
+### DIMENSIONES + INDICADORES
 
-#### Indicadores (visualizables) para cada dimensión
+| Categoría del Contenido | Geografía | Popularidad del Canal | Interacción del Público | Tipo de Contenido
+
 
 
 ----
