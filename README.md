@@ -50,4 +50,10 @@ Lista:
 1. Números
 2. Números
 
+Para tablas:
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
