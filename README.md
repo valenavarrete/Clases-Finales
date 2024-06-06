@@ -12,8 +12,8 @@
 
 | Categoría del Contenido | Geografía | Popularidad del Canal | Interacción del Público | Tipo de Contenido |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Número de canales, Promedio de visualizaciones, Promedio de suscriptores      | Title       |
+|     | Text        |
 
 | Dimensión                        | Indicador                                            |
 |----------------------------------|------------------------------------------------------|
