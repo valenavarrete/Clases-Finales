@@ -2,8 +2,9 @@
 
 ----
 
-# TÍTULO
-## TEMA
+# Top YouTubers del mundo y su impacto en Chile
+
+## YouTubers más reconocidos del mundo, analizando su influencia y comparándola con la de los principales YouTubers Chilenos. 
 
 ### DIMENSIONES
 
