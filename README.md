@@ -7,7 +7,7 @@
 ## YouTubers más reconocidos del mundo, analizando su influencia y comparándola con la de los principales YouTubers Chilenos. 
 
 Clase 1:
-### DIMENSIONES + INDICADORES
+### <mark> DIMENSIONES + INDICADORES </mark>
 
 | Dimensión                        | Indicador                                            |
 |----------------------------------|------------------------------------------------------|
@@ -23,7 +23,7 @@ Clase 2:
 
 Corrección de enfoque del proyecto: Consumo de Contenidos Digitales y el Sedentarismo
 
-### <mark>ANTECEDENTES</mark>
+### <mark> ANTECEDENTES </mark>
 
 Páginas con storytelling interesantes
 
@@ -38,7 +38,7 @@ Páginas con storytelling interesantes
 | 7 | [Ernest Hemingway](https://ernesthemingway.tilda.ws/english) | **Animaciones, que interactuan durante el scroll y ayudan a entender el storytelling**<br>Gráfica de la página: textura, tipografías, etc. | Tipografía puede dificultar la lectura <br> Imagenes pueden asustar🫠 |
 
 ----
-##### PARA ESCRIBIR AQUÍ:
+##### <mark> PARA ESCRIBIR AQUÍ: </mark>
 
 Para hacer un espacio entre líneas --> dejar un literal un espacio
 
