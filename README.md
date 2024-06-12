@@ -33,6 +33,8 @@
 
 ### ANTECEDENTES
 
+Páginas con storytelling interesantes
+
 | N° | WEB | Positivo | Negativo |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | [I killed a cactus](https://ikilledacactus.com/) | Dínamica<br>Entretenida<br>**Gráficos en movimiento** | Tiempo de carga lento<br>Se puede volver aburrido. Muy largo |
@@ -41,6 +43,7 @@
 | 4 | [Perennial](https://www.perennialatx.com/) | Gran cantidad de información visual que complementa la lectura | Scroll horizontal, no es lo más común, molesta un poco la vista<br>Muchas pestañas que abrir para comprender el tema |
 | 5 | [Portafolio Omid](https://omid.bio/#%F0%9F%A4%96) | Animaciones entretenidas <br> **Interacciones de usuario/lector con la web**, para entender la narrativa <br> Sección "Ask my mom" entretenida | Falta información específica <br> En la sección de proyectos, las imagenes tapan los títulos y no se entiende la información |
 | 6 | [IDEO](https://www.ideo.com/) | **Destacador amarillo y Círculos en palabras/conceptos claves** | - |
+| 7 | [Ernest Hemingway](https://ernesthemingway.tilda.ws/english) | **Animaciones, que interactuan durante el scroll y ayudan a entender el storytelling**<br>Gráfica de la página: textura, tipografías, etc. | Tipografía puede dificultar la lectura <br> Imagenes pueden asustar🫠 |
 
 ----
 ##### PARA ESCRIBIR AQUÍ:
