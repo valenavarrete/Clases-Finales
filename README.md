@@ -20,6 +20,9 @@ Clase 1:
 ----
 
 Clase 2:
+
+Corrección de enfoque del proyecto: Consumo de Contenidos Digitales y el Sedentarismo
+
 ### ANTECEDENTES
 
 Páginas con storytelling interesantes
