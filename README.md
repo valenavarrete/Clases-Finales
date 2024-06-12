@@ -33,10 +33,13 @@
 
 ### ANTECEDENTES
 
-| web | Positivo | Negativo |
-| ----------- | ----------- | ----------- |
-| [I killed a cactus](https://ikilledacactus.com/{:target="_blank"}) | Dínamica<br>Entretenida<br>Gráficos en movimiento. | Tiempo de carga lento<br>Se puede volver aburrido. Muy largo |
-
+| N° | web | Positivo | Negativo |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | [I killed a cactus](https://ikilledacactus.com/) | Dínamica<br>Entretenida<br>**Gráficos en movimiento** | Tiempo de carga lento<br>Se puede volver aburrido. Muy largo |
+| 2 | [Ripe Planet](https://ripeplanet.com/) | **Filtro en las fotos cuando interactuan con el texto**<br>Cambios de textura/colores | Si se pasa muy rápido, las animaciones se pierden |
+| 3 | [Where is Poland?](https://whereispoland.com/en/where-is-poland) | Diferentes métodos de organización de información que complementan la lectura. **Pop Ups, Before/after**, mapas dinámicos, etc. | Pueden ser muchas pestañas que abrir/cerrar, un poco tedioso. |
+| 4 | [Perennial](https://www.perennialatx.com/) | Gran cantidad de información visual que complementa la lectura | Scroll horizontal, no es lo más común, molesta un poco la vista<br>Muchas pestañas que abrir para comprender el tema |
+| 5 | [Portafolio Omid](https://omid.bio/#%F0%9F%A4%96) | Animaciones entretenidas <br> **Interacciones de usuario/lector con la web**, para entender la narrativa <br> Sección "Ask my mom" entretenida | Falta información específica <br> En la sección de proyectos, las imagenes tapan los títulos y no se entiende la información |
 
 ----
 ##### PARA ESCRIBIR AQUÍ:
