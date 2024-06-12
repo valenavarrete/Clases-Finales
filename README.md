@@ -35,7 +35,7 @@
 
 | web | Positivo | Negativo |
 | ----------- | ----------- | ----------- |
-| [I killed a cactus](https://ikilledacactus.com/){:target="_blank"} | Dínamica<br>Entretenida<br>Gráficos en movimiento. | Tiempo de carga lento<br>Se puede volver aburrido. Muy largo |
+| [I killed a cactus](https://ikilledacactus.com/{:target="_blank"}) | Dínamica<br>Entretenida<br>Gráficos en movimiento. | Tiempo de carga lento<br>Se puede volver aburrido. Muy largo |
 
 
 ----
