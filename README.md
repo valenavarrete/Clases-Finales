@@ -11,20 +11,10 @@
 | Dimensión                        | Indicador                                            |
 |----------------------------------|------------------------------------------------------|
 | **Categoría del Contenido en Chile** | Número de canales <br> Promedio de suscriptores <br> Promedio de visualizaciones <br> Promedio de 'likes' <br> Promedio de comentarios  |
-| **Popularidad de los Canales Chilenos** | Promedio de suscriptores|
-|                                  | Promedio de visualizaciones|
-|                                  | Promedio de 'likes'|
-|                                  | Promedio de comentarios|
-| **Interacción del Público en Chile** | Relación de 'likes' por visualización|
-|                                  | Relación de comentarios por visualización|
-| **Comparación Internacional**    | Comparación de suscriptores entre YouTubers chilenos y mundiales|
-|                                  | Comparación de visualizaciones entre YouTubers chilenos y mundiales|
-|                                  | Comparación de 'likes' entre YouTubers chilenos y mundiales|
-|                                  | Comparación de comentarios entre YouTubers chilenos y mundiales|
-| **Impacto en la Comunidad Chilena** |Temas de contenido más populares entre los YouTubers chilenos|
-|                                  | Eventos y colaboraciones relevantes|
-|                                  | Impacto en la cultura juvenil y tendencias sociales|
-|                                  | Tipo de contenido y tendencias|
+| **Popularidad de los Canales Chilenos** | Promedio de suscriptores <br> Promedio de visualizaciones <br> Promedio de 'likes' <br> Promedio de comentarios|
+| **Interacción del Público en Chile** | Relación de 'likes' por visualización <br> Relación de comentarios por visualización|
+| **Comparación Internacional**    | Comparación de suscriptores entre YouTubers chilenos y mundiales <br> Comparación de visualizaciones entre YouTubers chilenos y mundiales <br> Comparación de 'likes' entre YouTubers chilenos y mundiales <br> Comparación de comentarios entre YouTubers chilenos y mundiales|
+| **Impacto en la Comunidad Chilena** | Temas de contenido más populares entre los YouTubers chilenos <br> Eventos y colaboraciones relevantes <br> Impacto en la cultura juvenil y tendencias sociales <br> Tipo de contenido y tendencias|
 
 
 ### ANTECEDENTES
