@@ -35,7 +35,7 @@
 
 | web | Positivo | Negativo |
 | ----------- | ----------- | ----------- |
-| I killed a cactus ![opera](https://ikilledacactus.com/) | Dínamica. Entretenida. Gráficos en movimiento. | Tiempo de carga lento. Se puede volver aburrido. Muy largo |
+| I killed a cactus <br> [I killed a cactus](https://ikilledacactus.com/) | Dínamica. Entretenida. Gráficos en movimiento. | Tiempo de carga lento. Se puede volver aburrido. Muy largo |
 
 
 ----
