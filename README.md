@@ -10,11 +10,7 @@
 
 | Dimensión                        | Indicador                                            |
 |----------------------------------|------------------------------------------------------|
-| **Categoría del Contenido en Chile** | Número de canales      |
-|                                  | Promedio de suscriptores|
-|                                  | Promedio de visualizaciones|
-|                                  | Promedio de 'likes'   |
-|                                  | Promedio de comentarios  |
+| **Categoría del Contenido en Chile** | Número de canales <br> Promedio de suscriptores <br> Promedio de visualizaciones <br> Promedio de 'likes' <br> Promedio de comentarios  |
 | **Popularidad de los Canales Chilenos** | Promedio de suscriptores|
 |                                  | Promedio de visualizaciones|
 |                                  | Promedio de 'likes'|
