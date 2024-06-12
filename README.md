@@ -6,6 +6,7 @@
 
 ## YouTubers más reconocidos del mundo, analizando su influencia y comparándola con la de los principales YouTubers Chilenos. 
 
+Clase 1:
 ### DIMENSIONES + INDICADORES
 
 | Dimensión                        | Indicador                                            |
@@ -16,7 +17,9 @@
 | **Comparación Internacional**    | Comparación de suscriptores entre YouTubers chilenos y mundiales <br> Comparación de visualizaciones entre YouTubers chilenos y mundiales <br> Comparación de 'likes' entre YouTubers chilenos y mundiales <br> Comparación de comentarios entre YouTubers chilenos y mundiales|
 | **Impacto en la Comunidad Chilena** | Temas de contenido más populares entre los YouTubers chilenos <br> Eventos y colaboraciones relevantes <br> Impacto en la cultura juvenil y tendencias sociales <br> Tipo de contenido y tendencias|
 
+----
 
+Clase 2:
 ### ANTECEDENTES
 
 Páginas con storytelling interesantes
